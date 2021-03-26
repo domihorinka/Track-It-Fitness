@@ -28,3 +28,7 @@ You will add a new workout, then once complete, you will see it on your complete
 
 Dominique Horinka
 https://github.com/domihorinka/Track-It-Fitness
+
+## Video Walk-Through
+
+https://drive.google.com/file/d/1YBpEj2C-w0yut5aftlzkPnCpo79B6GLb/view
